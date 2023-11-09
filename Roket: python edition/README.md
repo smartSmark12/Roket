@@ -15,3 +15,6 @@ Alternatively:
 - Space: pause/play game
 - E: shoot laser
 ### Please report all issues to github
+### Known issues:
+- Windows defender will block you from downloading the "roket.exe" file. (It's not a virus, but WD flags it as a false positive)
+     - solution: download the "roket.py" file and manually compile it using pyinstaller
